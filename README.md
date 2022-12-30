@@ -12,6 +12,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 ## Installation
 
 N/A
+
 ## Usage
 
 contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first.
@@ -22,6 +23,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits
 
 N/A
+
 ## License
 
 Please refer to the LICENSE in the repo.
